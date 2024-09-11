@@ -1,2 +1,2 @@
-# jupyter-exploration
+# Jupiter-exploration
 My first repository
