@@ -1,2 +1,2 @@
 # Jupiter-exploration
-My first repository
+Was my first repository but I'm making it my Course Portfolio.
